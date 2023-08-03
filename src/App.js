@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>src/App.js</code>
-          Prueba de desploy de Proyecto React en Git Pages
+          Prueba de desploy de Proyecto
         </p>
         <a
           className="App-link"
